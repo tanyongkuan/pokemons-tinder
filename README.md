@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Live](https://pokemon-tinder.vercel.app/ 'Live View')
+- [Live](https://pokemon-tinder-alpha.vercel.app/ 'Live View')
 
 - [API]('https://pokeapi.co/docs/v2' 'Pokemon API')
 
