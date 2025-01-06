@@ -20,4 +20,4 @@
 
 ## Screenshots
 
-![Home Page](https://github.com/tanyongkuan/pokemon-tinder/blob/main/public/screenshot.PNG?raw=true)
+![Home Page](https://github.com/tanyongkuan/pokemon-tinders/blob/main/public/screenshot.PNG?raw=true)
